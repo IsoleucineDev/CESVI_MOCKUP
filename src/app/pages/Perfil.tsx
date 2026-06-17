@@ -110,7 +110,7 @@ function TabDatos() {
         <div className="text-xs font-medium text-gray-700 mb-3 border-b border-gray-200 pb-1">Información Personal</div>
         <div className="flex flex-col gap-3">
           <Field label="Nombre completo" value="Ing. Carlos Méndez Reyes" edit={editing} />
-          <Field label="Correo electrónico institucional" value="c.mendez@cesvi.com.mx" edit={editing} />
+          <Field label="Correo electrónico institucional" value="c.mendez@EJEMPLO.com.mx" edit={editing} />
           <Field label="Teléfono" value="+52 55 1234-5678" edit={editing} />
           <Field label="Cédula profesional" value="7823456-PER" edit={editing} />
           <Field label="Especialidad" value="Reconstrucción de Accidentes Viales" edit={editing} />
