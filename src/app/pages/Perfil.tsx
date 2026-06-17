@@ -33,10 +33,10 @@ export function Perfil() {
               <Shield size={11} /> Perito Senior
             </span>
             <span className="text-xs text-gray-500 flex items-center gap-1">
-              <Mail size={11} /> c.mendez@cesvi.com.mx
+              <Mail size={11} /> c.mendez@email.com.mx
             </span>
             <span className="text-xs text-gray-500 flex items-center gap-1">
-              <Phone size={11} /> +52 55 1234-5678
+              <Phone size={11} /> +52 XXXXXXXXXXXX
             </span>
           </div>
         </div>
