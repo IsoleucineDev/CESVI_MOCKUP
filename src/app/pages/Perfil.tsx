@@ -121,7 +121,7 @@ function TabDatos() {
         <div className="text-xs font-medium text-gray-700 mb-3 border-b border-gray-200 pb-1">Información del Sistema</div>
         <div className="flex flex-col gap-3">
           <Field label="Rol en el sistema" value="Perito Senior" />
-          <Field label="Número de empleado" value="CESVI-MX-1048" />
+          <Field label="Número de empleado" value="EJEMPLO-MX-1048" />
           <Field label="Fecha de alta" value="15/01/2022" />
           <Field label="Último acceso" value="08/03/2026 14:02" />
           <Field label="Estado de cuenta" value="Activo" />
