@@ -4,7 +4,7 @@ export function Footer() {
       className="h-[38px] flex items-center justify-center text-white text-xs shrink-0"
       style={{ backgroundColor: "#00ADCF" }}
     >
-      ©2026 Creado por CESVI MÉXICO
+      ©2026 Creado por ITC 4to 
     </footer>
   );
 }
